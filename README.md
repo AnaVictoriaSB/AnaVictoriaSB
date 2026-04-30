@@ -7,7 +7,6 @@ Sou Ana Victória Siqueira Braga, tenho 22 anos e sou natural de Uberlândia - M
 
 * Inteligência Artificial e Machine Learning
 * Análise de Dados
-* Processamento de Linguagem Natural (NLP)
 * Modelagem e Simulações em Engenharia
 
 ---
